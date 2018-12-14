@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21997" started-at="2018-11-20T08:12:22Z" finished-at="2018-11-20T08:12:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21997" started-at="2018-11-20T08:12:22Z" finished-at="2018-11-20T08:12:44Z">
+      <class name="TestNG.testDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestNG.testDemo@56235b8e]" name="setup" is-config="true" duration-ms="3931" started-at="2018-11-20T08:12:22Z" finished-at="2018-11-20T08:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GoogleSearch()[pri:0, instance:TestNG.testDemo@56235b8e]" name="GoogleSearch" duration-ms="15147" started-at="2018-11-20T08:12:26Z" finished-at="2018-11-20T08:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearch -->
+        <test-method status="PASS" signature="endSetup()[pri:0, instance:TestNG.testDemo@56235b8e]" name="endSetup" is-config="true" duration-ms="2897" started-at="2018-11-20T08:12:42Z" finished-at="2018-11-20T08:12:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSetup -->
+      </class> <!-- TestNG.testDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
