@@ -1,0 +1,32 @@
+package screens.android;
+
+import org.openqa.selenium.WebElement;
+
+import base.ScreenBase;
+import io.appium.java_client.MobileElement;
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.pagefactory.AndroidFindBy;
+
+public class HomesScreen extends ScreenBase {
+
+	public HomesScreen(AndroidDriver<MobileElement> driver) {
+		// TODO Auto-generated constructor stub
+		super(driver);
+	}
+	
+	public static AndroidDriver<MobileElement> driver;
+	//Constructor of this class
+
+
+
+	@AndroidFindBy(id="com.airbnb.android:id/text_view")
+	public WebElement searchHomes;
+
+
+	public HomesScreen searchHomes(String data) {
+		// TODO Auto-generated method stub
+		searchHomes.sendKeys(data);
+		return this;
+	}
+
+}
