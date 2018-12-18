@@ -2,5 +2,12 @@
 #version=1
 com.beust.jcommander.source,1.72.0,plugins/com.beust.jcommander.source_1.72.0.jar,-1,false
 org.apache-extras.beanshell.bsh.source,2.0.0.b6,plugins/org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar,-1,false
-org.testng.source,6.14.2.r201802161450,plugins/org.testng.source_6.14.2.r201802161450.jar,-1,false
+org.eclipse.egit.core.source,5.1.3.201810200350-r,plugins/org.eclipse.egit.core.source_5.1.3.201810200350-r.jar,-1,false
+org.eclipse.egit.gitflow.source,5.1.3.201810200350-r,plugins/org.eclipse.egit.gitflow.source_5.1.3.201810200350-r.jar,-1,false
+org.eclipse.egit.gitflow.ui.source,5.1.3.201810200350-r,plugins/org.eclipse.egit.gitflow.ui.source_5.1.3.201810200350-r.jar,-1,false
+org.eclipse.egit.mylyn.ui.source,5.1.3.201810200350-r,plugins/org.eclipse.egit.mylyn.ui.source_5.1.3.201810200350-r.jar,-1,false
+org.eclipse.egit.ui.source,5.1.3.201810200350-r,plugins/org.eclipse.egit.ui.source_5.1.3.201810200350-r.jar,-1,false
+org.eclipse.jgit.pgm.source,5.1.3.201810200350-r,plugins/org.eclipse.jgit.pgm.source_5.1.3.201810200350-r.jar,-1,false
+org.eclipse.jgit.source,5.1.3.201810200350-r,plugins/org.eclipse.jgit.source_5.1.3.201810200350-r.jar,-1,false
+org.testng.source,6.14.3.r201802240500,plugins/org.testng.source_6.14.3.r201802240500.jar,-1,false
 org.yaml.snakeyaml.source,1.17.0,plugins/org.yaml.snakeyaml.source_1.17.0.jar,-1,false
